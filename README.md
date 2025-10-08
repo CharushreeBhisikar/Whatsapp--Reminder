@@ -105,7 +105,7 @@ Google Sheets Python API
 dateparser Library
 
 📩 Contact
-Made with ❤️ by Harsh Nerkar and Charushree Bhisikar
+Made with ❤️ by Nayan Meshram and Charushree Bhisikar
 
 Let me know if you want:
 - A deployment guide for **Render**, **Railway**, or **Heroku**
